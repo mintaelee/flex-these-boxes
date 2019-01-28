@@ -29,6 +29,7 @@
 }
 
 #content {
+    display: flex;
     width: 70%;
 }
 
