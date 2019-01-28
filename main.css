@@ -24,6 +24,9 @@
 #nav {
     width: 20%;
     height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 #content {
